@@ -1,0 +1,1 @@
+Only main.c is needed, you can compile it by gcc.
